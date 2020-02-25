@@ -1,0 +1,17 @@
+Name,Primary,Promotions,Spam,Total Emails
+Pete Buttigieg,0.6279,0.093,0.2791,43
+Andrew Yang,0.4638,0.0435,0.4928,69
+Michael Bloomberg,0.1667,0.8333,0.0,6
+Julián Castro,0.1204,0.7407,0.1389,216
+Bill Weld,0.0291,0.2913,0.6796,103
+Tulsi Gabbard,0.0222,0.7778,0.2,45
+Bernie Sanders,0.018,0.964,0.018,111
+Cory Booker,0.0145,0.7633,0.2222,207
+Amy Klobuchar,0.0096,0.9071,0.0833,312
+Kamala Harris,0.0,0.3496,0.6504,123
+Joe Walsh,0.0,0.0549,0.9451,91
+Joe Biden,0.0,0.8571,0.1429,91
+Elizabeth Warren,0.0,0.8485,0.1515,66
+Beto O’Rourke,0.0,0.1957,0.8043,46
+Tom Steyer,0.0,1.0,0.0,1
+Trump rallies,0.0,0.0,1.0,1
