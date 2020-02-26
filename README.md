@@ -58,6 +58,9 @@ Links: [Formatted](https://github.com/the-markup/investigation-wheres-my-email/b
 #### data/input/google_takeout_mboxes_gzip/*.mbox.gz
 The political emails from our experiment are saved here. This is a folder of gzipped mbox files, which were regularly exported from the inbox we set up for our experiment.
 
+All available metadata fields for emails can be viewed in this JSON file:<br>
+`data/input/mbox_email_example.json`
+
 We exported the mbox files using Google takeout at least once every 30 days. The data in this folder spans from October 16th, 2019 to Febrary 12th 2020.
 
 Get more context about why we collected this dataset from our [paper](https://themarkup.org/google-the-giant/2020/02/26/show-your-work-wheres-my-email).
